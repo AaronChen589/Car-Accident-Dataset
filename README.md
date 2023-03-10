@@ -22,7 +22,7 @@ Many accidents occurred....
 -With a severity of 2 (from a scale from 1 to 4, where 1 is the least impactful and 4 is the most)
 
 
-##Remarks
+## Remarks
 -The classification data could be susceptible to overfitting/bias when classifying the expected severity
 -There also could’ve been unequal sampling from all the states in the US (ex: a few hundred samples from in some states and tens of thousands of samples from other states)
 -Some of the descriptions of our data were vague such as the scale of severity being  unclear, 1 indicates the least impact on traffic (i.e., short delay as a result of the accident) and 4 indicates a significant impact on traffic (i.e., long delay) but short/long isn’t measurable
