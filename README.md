@@ -1,6 +1,3 @@
-# Car-Accident-Dataset
-
-
 # AMS-325-Data-Analysis-of-Car-Accidents
 accidents.py contains code from each contributors (AaronChen589-RitaChen2-Tiffanyy-C)
 
