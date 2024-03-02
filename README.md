@@ -5,7 +5,7 @@ source of dataset: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents (2
 
 
 ## Significance/Goal
-We want to determine the relationship among factors and how they affect the number of car crashes, severity (scale from 1- 4 on its impact on traffic), and distance (length of the road extent affected)
+We want to determine the relationship among the features within the dataset and how they effect the number of car crashes, severity (scale from 1- 4 on its impact on traffic), and distance (length of the road extent affected)
 We do so by creating multiple predictive models for car crashes based on significant factors and visualizations of these models through graphs and charts
 
 
